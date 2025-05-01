@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @marklyda
 - 👀 I’m interested in legl technology to increase access to justice and improve attorney quality of life.
-- 💞️ I’m looking to collaborate on legal tech.
 - 📫 How to reach me: mark@lydagroup.com
 
 <!---
